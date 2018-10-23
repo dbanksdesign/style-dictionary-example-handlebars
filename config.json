@@ -1,0 +1,13 @@
+{
+  "source": ["properties/**/*.json"],
+  "platforms": {
+    "html": {
+      "transformGroup": "web",
+      "buildPath": "build/",
+      "files": [{
+        "destination": "test.html",
+        "format": "myFormat"
+      }]
+    }
+  }
+}

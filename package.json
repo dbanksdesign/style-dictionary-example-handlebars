@@ -1,0 +1,16 @@
+{
+  "name": "style-dictionary-example-handlebars",
+  "version": "0.0.1",
+  "description": "This example code is bare-bones example showing how to use handlebars",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "handlebars": "^4.0.12",
+    "style-dictionary": "^2.4.0"
+  }
+}
